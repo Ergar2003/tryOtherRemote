@@ -1,8 +1,5 @@
-
 // Hello world, nice to see ya!
 
 // Extra for testing.
 
 // GitHub looks easy, yet, it's advanced.
-
-// Hopefully, this one work.
